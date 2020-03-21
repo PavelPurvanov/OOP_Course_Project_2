@@ -1,0 +1,18 @@
+﻿Build started 4/3/2019 4:10:43 PM.
+     1>Project "C:\Users\boysa\Desktop\2RI KYRS\OOP-2-JAVA\Jivko kyrsova\Moq\KyrsovProekt-17621736\KyrsovProekt-17621736\KyrsovProekt-17621736.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Microsoft Visual Studio 2012 Professional\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt KyrsovProekt17621736PavelPurvanov.cpp
+         KyrsovProekt17621736PavelPurvanov.cpp
+     1>c:\users\boysa\desktop\2ri kyrs\oop-2-java\jivko kyrsova\moq\kyrsovproekt-17621736\kyrsovproekt-17621736\kyrsovproekt17621736pavelpurvanov.cpp(164): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\microsoft visual studio 2012 professional\vc\include\time.inl(112) : see declaration of 'localtime'
+     1>c:\users\boysa\desktop\2ri kyrs\oop-2-java\jivko kyrsova\moq\kyrsovproekt-17621736\kyrsovproekt-17621736\kyrsovproekt17621736pavelpurvanov.cpp(426): warning C4101: 'choice' : unreferenced local variable
+     1>c:\users\boysa\desktop\2ri kyrs\oop-2-java\jivko kyrsova\moq\kyrsovproekt-17621736\kyrsovproekt-17621736\kyrsovproekt17621736pavelpurvanov.cpp(384): warning C4715: 'GetDistributorsByIncomes' : not all control paths return a value
+       Link:
+         D:\Microsoft Visual Studio 2012 Professional\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\boysa\Desktop\2RI KYRS\OOP-2-JAVA\Jivko kyrsova\Moq\KyrsovProekt-17621736\Debug\KyrsovProekt-17621736.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\boysa\Desktop\2RI KYRS\OOP-2-JAVA\Jivko kyrsova\Moq\KyrsovProekt-17621736\Debug\KyrsovProekt-17621736.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\boysa\Desktop\2RI KYRS\OOP-2-JAVA\Jivko kyrsova\Moq\KyrsovProekt-17621736\Debug\KyrsovProekt-17621736.lib" /MACHINE:X86 Debug\KyrsovProekt17621736PavelPurvanov.obj
+         LINK : C:\Users\boysa\Desktop\2RI KYRS\OOP-2-JAVA\Jivko kyrsova\Moq\KyrsovProekt-17621736\Debug\KyrsovProekt-17621736.exe not found or not built by the last incremental link; performing full link
+         KyrsovProekt-17621736.vcxproj -> C:\Users\boysa\Desktop\2RI KYRS\OOP-2-JAVA\Jivko kyrsova\Moq\KyrsovProekt-17621736\Debug\KyrsovProekt-17621736.exe
+     1>Done Building Project "C:\Users\boysa\Desktop\2RI KYRS\OOP-2-JAVA\Jivko kyrsova\Moq\KyrsovProekt-17621736\KyrsovProekt-17621736\KyrsovProekt-17621736.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.80
